@@ -10,12 +10,4 @@ Zoom in and out using the + and - buttons.
 
 move the koch around by holding down mouse button 1 and dragging.
 
-Some test values in order:
-1
-2
-3
-4
-5
-6
-7
-8
+Can go up to the 8th generation, after the program slows down
