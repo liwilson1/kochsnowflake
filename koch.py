@@ -1,5 +1,3 @@
-# Liam Wilson
-# ID: 8730560
 import math
 import tkinter as tk
 
